@@ -29,7 +29,7 @@
               ចុះឈ្មោះ
             </button>
             <div class="my-[20px] mx-[100px]">
-                          <span class="loading loading-dots loading-lg"></span>
+                         
 
             </div>
           </RouterLink>

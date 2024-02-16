@@ -3,10 +3,7 @@
     <Nuvbar/>
   </div>
 
-<div class=" text-center my-[100px]">
-  <progress class="progress w-56"></progress>
 
-</div>
 
 <div class="mx-[10%]">
   
